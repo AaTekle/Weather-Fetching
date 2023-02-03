@@ -1,4 +1,6 @@
 import requests
+
+#Allows Fetched Data to be readable and "pretty" in format
 from pprint import pprint
 
 API_Key = '905cff5fdb5814434f5e47644cfd5476'
