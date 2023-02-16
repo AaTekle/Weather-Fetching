@@ -3,7 +3,7 @@ import requests
 #Allows Fetched Data to be readable and "pretty" in format
 from pprint import pprint
 
-API_Key = '905cff5fdb5814434f5e47644cfd5476'
+API_Key = 'Insert your API Key here' #Go to OpenWeather's Website to access the free API's that they provide! Go to the README file for the link to OpenWeather's Website.
 
 City = input("Enter any city: ")
 
